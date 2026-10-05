@@ -32,13 +32,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/yogesh12002/Leetcode/tree/master/0463-island-perimeter) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yogesh12002/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/yogesh12002/Leetcode/tree/master/0463-island-perimeter) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yogesh12002/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yogesh12002/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/yogesh12002/Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/yogesh12002/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
