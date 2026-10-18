@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yogesh12002/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0463-island-perimeter](https://github.com/yogesh12002/Leetcode/tree/master/0463-island-perimeter) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yogesh12002/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Matrix
@@ -64,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yogesh12002/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/yogesh12002/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yogesh12002/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
