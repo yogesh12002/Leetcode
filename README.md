@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/yogesh12002/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yogesh12002/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogesh12002/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yogesh12002/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/yogesh12002/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yogesh12002/Leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yogesh12002/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yogesh12002/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/yogesh12002/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogesh12002/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yogesh12002/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yogesh12002/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/yogesh12002/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogesh12002/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yogesh12002/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
